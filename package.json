@@ -27,7 +27,7 @@
   "homepage": "https://github.com/DocSpring/craco-less#readme",
   "devDependencies": {
     "@craco/craco": "github:COH-IT-Software-Engineering/craco",
-    "@craco/types": "^7.1.0",
+    "@craco/types": "github:COH-IT-Software-Engineering/craco",
     "clone": "^2.1.2",
     "eslint": "^8.44.0",
     "eslint-config-prettier": "^8.8.0",
